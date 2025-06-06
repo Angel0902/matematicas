@@ -16,3 +16,4 @@ function dividir(a, b) {
 
 
 sumar(5,3);
+restar(5,3)
